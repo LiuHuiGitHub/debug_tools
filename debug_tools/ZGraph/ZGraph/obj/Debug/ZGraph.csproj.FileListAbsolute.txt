@@ -1,0 +1,91 @@
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\Pengpai\Desktop\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\Pengpai\Desktop\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
+E:\毕设资料\无刷电机\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+E:\毕设资料\无刷电机\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+E:\毕设资料\无刷电机\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ZhengJuyin.UI.ZGraph.resources
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZGraph\ZGraph\obj\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZLGControler\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+E:\毕设资料\上位机工程记录\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+C:\Documents and Settings\yangpengpai\桌面\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+C:\Documents and Settings\yangpengpai\桌面\文件夹\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ZLGWork.UI.ZGraph.resources
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\各种资料\ZLGControler\ZGraph\obj\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\Project1\1控件增加了侧边栏\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\bin\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\bin\Debug\ZGraph.pdb
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\ZGraph.dll
+C:\Users\pengpai\Desktop\波形控件升级版\ZGraph\obj\Debug\ZGraph.pdb
+E:\User\桌面\波形控件升级版\ZGraph\bin\Debug\ZGraph.dll
+E:\User\桌面\波形控件升级版\ZGraph\bin\Debug\ZGraph.pdb
+E:\User\桌面\波形控件升级版\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+E:\User\桌面\波形控件升级版\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+E:\User\桌面\波形控件升级版\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\User\桌面\波形控件升级版\ZGraph\obj\Debug\ZGraph.dll
+E:\User\桌面\波形控件升级版\ZGraph\obj\Debug\ZGraph.pdb
+E:\User\桌面\debug_tools\ZGraph\ZGraph\bin\Debug\ZGraph.dll
+E:\User\桌面\debug_tools\ZGraph\ZGraph\bin\Debug\ZGraph.pdb
+E:\User\桌面\debug_tools\ZGraph\ZGraph\obj\Debug\ZGraph.csprojResolveAssemblyReference.cache
+E:\User\桌面\debug_tools\ZGraph\ZGraph\obj\Debug\Pengpai.UI.ZGraph.resources
+E:\User\桌面\debug_tools\ZGraph\ZGraph\obj\Debug\ZGraph.csproj.GenerateResource.Cache
+E:\User\桌面\debug_tools\ZGraph\ZGraph\obj\Debug\ZGraph.dll
+E:\User\桌面\debug_tools\ZGraph\ZGraph\obj\Debug\ZGraph.pdb

@@ -1,0 +1,9 @@
+E:\User\桌面\modbus_debug\obj\Debug\debug_tools.csprojResolveAssemblyReference.cache
+E:\User\桌面\modbus_debug\obj\Debug\debug_tools.MessageForm.resources
+E:\User\桌面\modbus_debug\obj\Debug\debug_tools.SettingForm.resources
+E:\User\桌面\modbus_debug\obj\Debug\debug_tools.stm8s_bootload.resources
+E:\User\桌面\modbus_debug\obj\Debug\stm8s_bootload.Properties.Resources.resources
+E:\User\桌面\modbus_debug\obj\Debug\debug_tools.csproj.GenerateResource.Cache
+E:\User\桌面\modbus_debug\obj\Debug\stm8s_bootload.exe
+E:\User\桌面\modbus_debug\obj\Debug\stm8s_bootload.pdb
+E:\User\桌面\modbus_debug\obj\Debug\debug_tools.debug_tools.resources
