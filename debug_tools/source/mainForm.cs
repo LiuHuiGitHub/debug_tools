@@ -365,7 +365,14 @@ namespace debug_tools
                         {
                             string[] strArray1 = strArray[1].Split('.');    //以‘.’分割string
                             mapItem.addr = Convert.ToUInt32(strArray1[0].Replace("H", ""), 16);
-                            mapItem.addr |= (uint.Parse(strArray1[1])+1)<<28;        //位寻址变量BIT位放到32为地址的最高位
+                            if (strArray1.Length == 1)
+                            {
+                                mapItem.addr |= (0 + 1) << 28;        //位寻址变量BIT位放到32为地址的最高位
+                            }
+                            else
+                            {
+                                mapItem.addr |= (uint.Parse(strArray1[1]) + 1) << 28;        //位寻址变量BIT位放到32为地址的最高位
+                            }
                         }
                         else
                         {
